@@ -1,0 +1,38 @@
+*{
+    background-image: url(araç.jpg);
+    opacity: 1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box{
+    margin-left: 100px;
+    width: 500px;
+    height: 250px;
+    color: blanchedalmond;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.galeri{
+    margin-left: 700px;
+    margin-top: -250px;
+}
+.açıklama1{
+    margin-top: -500px;
+}
+.açıklama2{
+    margin-top: 200px;
+}
+.açıklama3{
+    margin-top: 150px;
+}
+.f1{
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+.f2{
+    margin-left: 1000px;
+    margin-top: 200px;
+}
+.f3{
+    margin-left: 1000px;
+    margin-top: 150px;
+}
